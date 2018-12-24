@@ -1,0 +1,11 @@
+C:\Users\timi\VisualStudioProjects\UTPreparePaks\UTPreparePaks\bin\Debug\netcoreapp2.1\UTPreparePaks.deps.json
+C:\Users\timi\VisualStudioProjects\UTPreparePaks\UTPreparePaks\bin\Debug\netcoreapp2.1\UTPreparePaks.runtimeconfig.json
+C:\Users\timi\VisualStudioProjects\UTPreparePaks\UTPreparePaks\bin\Debug\netcoreapp2.1\UTPreparePaks.runtimeconfig.dev.json
+C:\Users\timi\VisualStudioProjects\UTPreparePaks\UTPreparePaks\bin\Debug\netcoreapp2.1\UTPreparePaks.dll
+C:\Users\timi\VisualStudioProjects\UTPreparePaks\UTPreparePaks\bin\Debug\netcoreapp2.1\UTPreparePaks.pdb
+C:\Users\timi\VisualStudioProjects\UTPreparePaks\UTPreparePaks\obj\Debug\netcoreapp2.1\UTPreparePaks.csprojAssemblyReference.cache
+C:\Users\timi\VisualStudioProjects\UTPreparePaks\UTPreparePaks\obj\Debug\netcoreapp2.1\UTPreparePaks.csproj.CoreCompileInputs.cache
+C:\Users\timi\VisualStudioProjects\UTPreparePaks\UTPreparePaks\obj\Debug\netcoreapp2.1\UTPreparePaks.AssemblyInfoInputs.cache
+C:\Users\timi\VisualStudioProjects\UTPreparePaks\UTPreparePaks\obj\Debug\netcoreapp2.1\UTPreparePaks.AssemblyInfo.cs
+C:\Users\timi\VisualStudioProjects\UTPreparePaks\UTPreparePaks\obj\Debug\netcoreapp2.1\UTPreparePaks.dll
+C:\Users\timi\VisualStudioProjects\UTPreparePaks\UTPreparePaks\obj\Debug\netcoreapp2.1\UTPreparePaks.pdb

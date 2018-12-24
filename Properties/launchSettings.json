@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UTPreparePaks": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\timi\\VisualStudioProjects\\UTPreparePaks\\UTPreparePaks\\bin\\Debug\\netcoreapp2.1\\target\""
+    }
+  }
+}
