@@ -2,6 +2,8 @@
 Every time before UT4 starts, start this program and it will prepare PAKs for you so that UT4 and custom match screen both load much faster.
 
 # Install
+First install .NET Core from here https://dotnet.microsoft.com/download. without this it wont work.
+
 Download release and unzip it where ever you want. I prefer `%userprofile%\Documents\UnrealTournament\AllPaks`.
 Put all your maps from `%userprofile%\Documents\UnrealTournament\Saved\Paks\DownloadedPaks` to appropriate
 folder in `%userprofile%\Documents\UnrealTournament\AllPaks`.
